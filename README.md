@@ -175,3 +175,6 @@ Based on the investor's risk tolerance, the chatbot generates a pie chart showin
 ### Conclusion
 
 This enhanced version of the chatbot not only predicts an investor's risk tolerance but also provides a personalized investment portfolio recommendation. It leverages advanced natural language processing techniques to assess risk and visualizes the asset distribution in an easy-to-understand format. The tool is ideal for investors who want to make informed decisions based on their individual risk profiles.
+
+
+**Continue to [Part 2](READMEML2.md)**
