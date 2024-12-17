@@ -1,4 +1,4 @@
-# Risk Tolerance Prediction with DistilBERT, Sentence Transformers, and Portfolio Recommendation
+# Part 1: Risk Tolerance Prediction with DistilBERT, Sentence Transformers, and Portfolio Recommendation
 
 This project uses machine learning models (DistilBERT and Sentence Transformers) to predict the risk tolerance of investors based on their responses to a set of questions. It also recommends an investment portfolio and visualizes the allocation based on the investor's risk tolerance.
 
@@ -8,14 +8,14 @@ This project uses machine learning models (DistilBERT and Sentence Transformers)
 - **Risk Tolerance Prediction**: Classifies an investor’s risk tolerance into five levels based on their responses to a series of questions.
 - **Enhanced Risk Scoring**: Uses sentiment analysis combined with keyword-based semantic similarity to provide a more precise classification of risk tolerance.
 - **Portfolio Recommendation**: Based on the investor's risk tolerance, recommends an investment portfolio with varying levels of risk (ranging from conservative to aggressive).
-- **Portfolio Visualization**: Displays the recommended portfolio in a pie chart, allowing the investor to visualize their asset allocation.
+- **Portfolio Visualization**: Displays the recommended portfolio in a pie chart, allowing the investor to visualize their asset allocation. 
 
 ## Requirements
 
 - Python 3.x
 - PyTorch
 - scikit-learn
-- Hugging Face Transformers
+- Hugging Face Transformers 
 - Sentence-Transformers
 - pandas
 - numpy
