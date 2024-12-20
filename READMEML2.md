@@ -1,4 +1,4 @@
-# Machine Learning Part 2 README
+# Part 2: Machine Learning-Based Stock Trading Strategy with Optimized LSTM
 
 ## Overview
 This program uses machine learning to develop a robust trading/investing strategy. By processing historical stock data and integrating advanced technical analysis indicators, it aims to predict stock movements, evaluate market trends, and simulate strategy performance. Additionally, it includes a "Golden Magic Model" powered by Optuna for hyperparameter optimization and feature weighting.
@@ -202,3 +202,6 @@ Ensure your CSV file is structured as follows:
 - Test on additional time periods for robustness.
 - Add transaction cost modeling.
 - Explore ensemble models and advanced deep learning architectures for enhanced prediction accuracy.
+
+
+**Back to [Part 1](README.md)**
